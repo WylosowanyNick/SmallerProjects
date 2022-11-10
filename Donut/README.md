@@ -1,5 +1,7 @@
 # Donut
 
+![Donut](Donut.png)
+
 This program (for Windows) renders a rotating, illuminated torus in the command prompt window. Illumination of the torus is represented by ASCII characters. Ready to run program can be found in the project folder.
 
 The program was created on the basis of: [Link](https://www.a1k0n.net/2011/07/20/donut-math.html). The idea presented on the website I found interesting, but I think that the autor unnecessarly focused on the performance rather than a general concept of rendering. For my own curosity, I used his idea and rewritten his concept so that it could be used more generally.
