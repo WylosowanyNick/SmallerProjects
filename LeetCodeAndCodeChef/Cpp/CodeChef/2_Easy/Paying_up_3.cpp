@@ -1,0 +1,1 @@
+// Rozwiązać wykorzystując https://www.codechef.com/viewsolution/42973024
